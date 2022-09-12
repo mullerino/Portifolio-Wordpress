@@ -2,7 +2,8 @@
 Esse repositório será dedicado ao portifólio construido com wordpress.
 
 Paleta de cores:
-![paleta](https://user-images.githubusercontent.com/75099666/188754254-ba6b4d74-964d-4531-a90f-5e80ec90509d.png)
+![paleta](https://user-images.githubusercontent.com/75099666/189776916-44a8341c-c475-434e-8a45-5ff89f921f42.png)
 
-Header:
-![header](https://user-images.githubusercontent.com/75099666/188754291-0cfdd972-5478-4482-9717-b5d9a674d6b7.png)
+Site até o momento:
+![site](https://user-images.githubusercontent.com/75099666/189777045-2f339341-1feb-4035-ac6d-4685692abb69.jpeg)
+
