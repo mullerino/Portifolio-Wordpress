@@ -1,9 +1,11 @@
 # Portifolio-Wordpress
-Esse repositório será dedicado ao portifólio construido com wordpress.
+Esse repositório será dedicado ao portifólio construido com Wordpress.
+
+Link do arquivo exportado: 
 
 Paleta de cores:
 ![paleta](https://user-images.githubusercontent.com/75099666/189776916-44a8341c-c475-434e-8a45-5ff89f921f42.png)
 
 Site até o momento:
-![site](https://user-images.githubusercontent.com/75099666/189777045-2f339341-1feb-4035-ac6d-4685692abb69.jpeg)
+![portifolio](https://user-images.githubusercontent.com/75099666/191366093-066e8324-a9e6-4f58-8ec4-144f1bf5f5f8.jpeg)
 
