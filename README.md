@@ -2,6 +2,7 @@
 Esse portifólio foi desenvolvido utilizando Wordpress, com o proposito de expor meus projetos, habilidades e um pouco de quem eu sou, espero que gostem.
 
 Link do arquivo exportado: https://drive.google.com/file/d/1dQwQZBP7NsNEaB51w96zYhgAznViTpNN/view?usp=sharing
+
 Link do site: leandro-muller.soukick.com.br/index/
 
 Paleta de cores:
