@@ -11,4 +11,5 @@ Paleta de cores:
 Site até o momento:
 ![portifolio_2 0](https://user-images.githubusercontent.com/75099666/192645133-9d556065-73bb-46f9-a3da-113e2b8be91b.jpeg)
 
+[portifólio.pdf](https://github.com/mullerino/Portifolio-Wordpress/files/9701264/portifolio.pdf)
 
